@@ -1,0 +1,14 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\common.o"
+".\objects\simple_uart.o"
+".\objects\nrf_nvmc.o"
+".\objects\radio_config.o"
+".\objects\sys.o"
+".\objects\tim.o"
+".\objects\arm_startup_nrf51.o"
+".\objects\system_nrf51.o"
+--strict --scatter ".\Objects\reader_project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\reader_project.map" -o .\Objects\reader_project.axf
