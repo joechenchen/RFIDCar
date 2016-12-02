@@ -1,0 +1,14 @@
+.\objects\crc.o: ..\Application\user_src\crc.c
+.\objects\crc.o: ..\Application\user_inc\crc.h
+.\objects\crc.o: ..\Application\sys\sys.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\nrf.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\nrf51.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm0.h
+.\objects\crc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\system_nrf51.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\nrf51_bitfields.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\nrf51_deprecated.h
+.\objects\crc.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\8.9.0\Device\Include\compiler_abstraction.h

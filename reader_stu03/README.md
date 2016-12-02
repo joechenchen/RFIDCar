@@ -1,0 +1,2 @@
+#reader
+config other device
